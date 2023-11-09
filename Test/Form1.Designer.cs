@@ -55,7 +55,7 @@
             this.ПлощВальєра,
             this.Кількістьптах,
             this.ЗагПлоща});
-            this.dataGridView1.Location = new System.Drawing.Point(69, 79);
+            this.dataGridView1.Location = new System.Drawing.Point(69, 78);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(644, 163);
             this.dataGridView1.TabIndex = 0;
